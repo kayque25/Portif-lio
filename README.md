@@ -90,6 +90,6 @@ Como diferencial, o portfólio conta com um ícone de drone como cursor personal
 
 Assinado,
 
-<img src="Self Assessment/IMG_0092.png" width="200" height="200"/>
+<img src="img/IMG_0092.png" width="200" height="200"/>
 
 
